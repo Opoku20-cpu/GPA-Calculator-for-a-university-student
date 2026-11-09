@@ -55,10 +55,10 @@
 					gradepoints=1.0;
 					cout << "D" <<endl;
 				}
-					else (studentscore >=45);
+					else (studentscore >=45){
 					gradepoints=0.0;
 					cout<< "F" << endl;
-			
+			}
 					}
 				
 				//calulations
